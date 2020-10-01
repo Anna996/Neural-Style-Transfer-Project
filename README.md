@@ -4,6 +4,9 @@ The project is based on Deep Neural Networks, which creates artistic images by l
 The project was written in Python in Colab (by Google), using TensorFlow and VGG16 - a convolutional neural network model.
 
 
+![res5](https://user-images.githubusercontent.com/51260694/94795833-96a9bd80-03e6-11eb-8c19-3da633d4973f.jpg)
+
+![res6](https://user-images.githubusercontent.com/51260694/94795855-9e696200-03e6-11eb-8367-9e703026d5e8.jpg)
 
 
 Credits for knowledge and inspiration:
